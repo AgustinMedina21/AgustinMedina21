@@ -12,4 +12,4 @@ I am a QA tester.
 - Git
 
 ## 👀 You can find me at:
-- Linkedin: https://www.linkedin.com/in/mariano-medina-261133226/
+- [Linkedin](http://https://www.linkedin.com/in/mariano-medina-261133226/ "Linkedin")
