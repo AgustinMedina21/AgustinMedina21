@@ -28,4 +28,5 @@ which strengthens my preparation as a tester and drives me to seek exciting oppo
 ## 👀 You can find me at:
 - [Linkedin](http://https://www.linkedin.com/in/mariano-medina-261133226/ "Linkedin")
 - Gmail: agus.demian21@gmail.com
+- [Getonbrd]https://www.getonbrd.com/p/agus-medina
 
