@@ -21,9 +21,8 @@ Being able to continue training daily to continue learning about testing and web
  > Secundario tecnico en programacion 
  > > Desarollo de aplicaciones web y analisis en sistema (1 Year, Terciario)
  > > > SeProgramar. (Curso aprobed)
- > > > > Tester QA (I am currently about to complete the 'INICIATEC - TESTING QA' program thanks to MINDHUB and ACCENTURE,
-which strengthens my preparation as a tester and drives me to seek exciting opportunities in the field of software testing)
- > > > > > UNDAV Developer ( HTML, CSS, JIRA. A web development course that I am currently doing at the University of Avellaneda)
+ > > > > Tester QA (Intensive bootcamp provided by Accenture and MindHub. Where all the capabilities of a tester were put to the test. Approved.)
+ > > > > > UNDAV Developer JR ( First part approved where the HTML and CSS languages ​​were put into practice.)
 
 ## 👀 You can find me at:
 - [Linkedin](http://https://www.linkedin.com/in/mariano-medina-261133226/ "Linkedin")
