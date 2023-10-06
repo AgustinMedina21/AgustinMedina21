@@ -16,6 +16,8 @@ Being able to continue training daily to continue learning about testing and web
 - Git
 - HTML
 - CSS
+- Python
+- Java Script
 
 ## Studies 📚
  > Secundario tecnico en programacion 
