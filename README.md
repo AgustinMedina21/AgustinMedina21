@@ -25,6 +25,7 @@ Being able to continue training daily to continue learning about testing and web
  > > > SeProgramar. (Curso aprobed)
  > > > > Tester QA (Intensive bootcamp provided by Accenture and MindHub. Where all the capabilities of a tester were put to the test. Approved.)
  > > > > > UNDAV Developer JR ( First part approved where the HTML and CSS languages ​​were put into practice.)
+>  > > > > CoderHouse Desarollo web  finalizado.
 
 ## 👀 You can find me at:
 - [Linkedin](http://https://www.linkedin.com/in/mariano-medina-261133226/ "Linkedin")
